@@ -1,6 +1,6 @@
 magic
 tech sky130A
-timestamp 1633032407
+timestamp 1633038017
 << error_s >>
 rect 57925 321118 57942 321119
 rect 57925 321099 57942 321100
@@ -2161,6 +2161,14 @@ flabel metal2 s 2626 -400 2682 240 0 FreeSans 560 90 0 0 wbs_stb_i
 port 676 nsew signal input
 flabel metal2 s 3217 -400 3273 240 0 FreeSans 560 90 0 0 wbs_we_i
 port 677 nsew signal input
+flabel locali 55541 323434 56438 324203 0 FreeMono 8000 0 0 0 Vout
+port 678 nsew
+flabel locali 59354 322921 60251 323690 0 FreeMono 8000 0 0 0 Vin
+port 679 nsew
+flabel locali 55573 320645 56470 321414 0 FreeMono 8000 0 0 0 gnd
+port 680 nsew
+flabel locali 59131 320640 60028 321409 0 FreeMono 8000 0 0 0 Vdd
+port 681 nsew
 << properties >>
 string FIXED_BBOX 0 0 292000 352000
 << end >>
