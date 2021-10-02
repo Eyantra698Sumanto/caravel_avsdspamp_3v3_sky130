@@ -2170,5 +2170,5 @@ port 680 nsew
 flabel locali 59131 320640 60028 321409 0 FreeMono 8000 0 0 0 Vdd
 port 681 nsew
 << properties >>
-string FIXED_BBOX 0 0 292000 352000
+string FIXED_BBOX 0 0 584000 704000
 << end >>
