@@ -192,8 +192,8 @@ Sumanto Kar</br>
 Contact: jeetsumanto123@gmail.com</br>
 
 # Acknowledgments
-FOSSEE, Indian Institute of Technology, Bombay
-Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+* FOSSEE, Indian Institute of Technology, Bombay
+* Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 
 
 
